@@ -1,5 +1,5 @@
 # Linux-Process-Information-Kernel-Module
-This repository contains a three part documents and codes for implementing a **LKM** with a user program controller that extracts process information from kernel. **for more information please refer to my weblog ( Part 2.1 and 2.2 and 2.3 posts )**
+This repository contains a three part documents and codes for implementing a **LKM** with a user program controller that extracts process information from kernel. **For more information please refer to my weblog ( Part 2.1 and 2.2 and 2.3 posts )**
 
 More info on first document **proj21.pdf** :
 
